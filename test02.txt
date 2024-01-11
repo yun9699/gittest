@@ -1,1 +1,4 @@
 0202txt
+
+test02 branch에서 작성 
+-> test02.txt에 test02 branch 내용작성
